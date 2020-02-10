@@ -1,0 +1,25 @@
+- Git login
+- Docker Hub login
+- 
+
+
+AWS :
+
+nishta.jaiswal1@gmail.com
+Nishusudhir1!
+
+
+
+
+Github : git hub requires third party tool jenkins or teamcity for cicd
+GItLab -- Both repo and CICD tool.
+Docker: containerisation
+Ansible: configuration management (Playbooks)
+Kuberneties: clustering	
+
+
+Git file upload
+docker file push on docker hub
+jenkins server install
+
+
